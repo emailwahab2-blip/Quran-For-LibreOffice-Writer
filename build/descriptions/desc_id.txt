@@ -1,0 +1,1 @@
+Sisip ayat Al-Qur'an (Arab + terjemah Kemenag 2019) ke dokumen Writer, dengan mode pilih nomor surah/ayat atau cari kata (Arab abai-harakat / arti Indonesia). Data offline. Font mushaf LPMQ. Pengembang: Abdul Wahab Ahmad.

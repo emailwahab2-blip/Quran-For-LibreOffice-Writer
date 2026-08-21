@@ -1,0 +1,6 @@
+# Catatan pengembangan pribadi (jangan dipublish)
+Catatan Aplikasi/
+
+# artefak cache
+*.pyc
+__pycache__/

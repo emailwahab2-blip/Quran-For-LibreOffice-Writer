@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest:manifest xmlns:manifest="http://openoffice.org/2001/manifest">
+  <manifest:file-entry
+      manifest:media-type="application/vnd.sun.star.uno-component;type=Python"
+      manifest:full-path="python/wonderquran.py"/>
+  <manifest:file-entry
+      manifest:media-type="application/vnd.sun.star.configuration-data"
+      manifest:full-path="Addons.xcu"/>
+  <manifest:file-entry
+      manifest:media-type="application/vnd.sun.star.configuration-data"
+      manifest:full-path="ProtocolHandler.xcu"/>
+  <manifest:file-entry
+      manifest:media-type="application/vnd.sun.star.font"
+      manifest:full-path="fonts/lpmq.ttf"/>
+  <manifest:file-entry
+      manifest:media-type="application/vnd.sun.star.font"
+      manifest:full-path="fonts/amiri.ttf"/>
+</manifest:manifest>
